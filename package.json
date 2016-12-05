@@ -1,0 +1,38 @@
+{
+  "name": "stylelint-config-dev",
+  "version": "1.0.0",
+  "description": "A shareable configuration package for stylelint",
+  "author": "Jonathan Neal <jonathantneal@hotmail.com>",
+  "license": "CC0-1.0",
+  "repository": "jonathantneal/stylelint-config-dev",
+  "homepage": "https://github.com/jonathantneal/stylelint-config-dev#readme",
+  "bugs": "https://github.com/jonathantneal/stylelint-config-dev/issues",
+  "main": ".stylelintrc",
+  "files": [
+    ".stylelintrc"
+  ],
+  "scripts": {
+    "prepublish": "npm test",
+    "test": "stylelint test.css"
+  },
+  "devDependencies": {
+    "stylelint": "^7.6.0"
+  },
+  "keywords": [
+    "styleconfig",
+    "style-config",
+    "stylelintconfig",
+    "stylelint-config",
+    "cssconfig",
+    "css-config",
+    "style",
+    "css",
+    "config",
+    "webdevelopment",
+    "web-development",
+    "webdev",
+    "web",
+    "dev",
+    "development"
+  ]
+}
