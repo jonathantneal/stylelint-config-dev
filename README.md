@@ -1,4 +1,4 @@
-# stylelint-config-dev <a href="https://github.com/stylelint/stylelint"><img src="https://s3.amazonaws.com/media-p.slid.es/uploads/467124/images/2872758/stylelint-icon-black.svg" alt="StyleLint Logo" width="90" height="90" align="right"></a>
+# stylelint-config-dev [<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/467124/images/2872758/stylelint-icon-black.svg" alt="StyleLint" width="90" height="90" align="right">][stylelint]
 
 [![NPM Version][npm-img]][npm-url]
 [![Build Status][cli-img]][cli-url]
