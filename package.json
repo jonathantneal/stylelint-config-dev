@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-dev",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "A shareable configuration package for stylelint",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",

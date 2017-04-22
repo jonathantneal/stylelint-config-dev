@@ -82,7 +82,7 @@
 		"declaration-property-value-blacklist": null,
 		"declaration-property-value-whitelist": null,
 
-		"declaration-block-no-duplicate-properties": true,
+		"declaration-block-no-duplicate-properties": [ true, { ignore: ["consecutive-duplicates-with-different-values"] } ],
 		"declaration-block-no-redundant-longhand-properties": true,
 		"declaration-block-no-shorthand-property-overrides": true,
 		"declaration-block-semicolon-newline-after": "always",
