@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-dev",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "A shareable configuration package for stylelint",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",
@@ -16,10 +16,13 @@
     "test": "stylelint test.css"
   },
   "dependencies": {
-    "stylelint-order": "^1.0.0"
+    "stylelint-media-use-custom-media": "^1.0.0",
+    "stylelint-order": "^1.0.0",
+    "stylelint-use-logical": "^1.1.0",
+    "stylelint-value-no-unknown-custom-properties": "^2.0.0"
   },
   "devDependencies": {
-    "stylelint": "^9.5.0"
+    "stylelint": "^9.7.1"
   },
   "keywords": [
     "styleconfig",

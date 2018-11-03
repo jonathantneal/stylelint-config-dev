@@ -1,6 +1,9 @@
 {
 	"plugins": [
-		"stylelint-order"
+		"stylelint-media-use-custom-media",
+		"stylelint-order",
+		"stylelint-use-logical",
+		"stylelint-value-no-unknown-custom-properties"
 	],
 	"rules": {
 		"color-hex-case": "lower",
@@ -191,6 +194,12 @@
 		"no-unknown-animations": null,
 
 		"order/order": [ "custom-properties", "declarations" ],
-		"order/properties-alphabetical-order": true
+		"order/properties-alphabetical-order": true,
+
+		"csstools/media-use-custom-media": ["known"],
+
+		"csstools/use-logical": [true],
+
+		"csstools/value-no-unknown-custom-properties": [true]
 	}
 }
